@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **linux,docker,shell-script,kubernetes,docker,git**
 
-- 📫 How to reach me **https://github.com/Gauravxo**
+- 📫 How to reach me **https://www.instagram.com/_auravxo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
