@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="
-https://www.freepik.com/free-vector/development-operations-banner-devops-concept_8251795.htm#query=devops&position=4&from_view=keyword&track=sph"
+https://www.freepik.com/free-vector/development-operations-banner-devops-concept_8251795.htm#query=devops&position=4&from_view=keyword&track=sph">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravxo&label=Profile%20views&color=0e75b6&style=flat" alt="gauravxo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravxo" alt="gauravxo" /></a> </p>
