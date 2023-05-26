@@ -1,4 +1,4 @@
-![logo](https://github.com/Gauravxo/Gauravxo/blob/614b8dc65524b1be718223e4d7e2bbc938f9a3ea/I'm%20Gaurav.png)
+![logo](https://github.com/Gauravxo/Gauravxo/blob/eafe4e6db8b7dd534b9178ba2eb4ff4ee7f49616/Screenshot%202023-05-26%20183520.png)
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 <img align="right" alt="coding"width="400" src="https://github.com/Gauravxo/Gauravxo/blob/1e7e822ad0c23fba3339760a3d5821ab0d7dd1fc/Computer%20System%20Coding.gif">
