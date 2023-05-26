@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **HPE LIC EDMS PROJECT**
 -
-<img align="right" alt="coding"width="350" src="https://github.com/Gauravxo/Gauravxo/blob/main/abc.gif">
+
 
 
 - 🌱 I’m currently learning **Jenkins , Python**
