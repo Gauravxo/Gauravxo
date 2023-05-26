@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Jenkins , Python**
 
 - 👯 I’m looking to collaborate on **kubernetes**
-
+<img align="left" alt="coding"width="350" src="https://github.com/Gauravxo/Gauravxo/blob/main/abc.gif">
 - 🤝 I’m looking for help with **linux,docker,ansible**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gauravxo](https://github.com/Gauravxo)
