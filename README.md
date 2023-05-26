@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
-<img align="right" alt="coding"width="300" src="https://github.com/Gauravxo/Gauravxo/blob/main/abc.gif">
+<img align="right" alt="coding"width="350" src="https://github.com/Gauravxo/Gauravxo/blob/main/abc.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravxo&label=Profile%20views&color=0e75b6&style=flat" alt="gauravxo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravxo" alt="gauravxo" /></a> </p>
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Jenkins , Python**
 
 - 👯 I’m looking to collaborate on **kubernetes**
-<img align="left" alt="coding"width="350" src="https://github.com/Gauravxo/Gauravxo/blob/main/abc.gif">
+
 - 🤝 I’m looking for help with **linux,docker,ansible**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gauravxo](https://github.com/Gauravxo)
