@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 <img align="right" alt="coding"width="350" src="https://github.com/Gauravxo/Gauravxo/blob/main/abc.gif">
@@ -18,10 +17,13 @@
 
 - 💬 Ask me about **linux,docker,shell-script,kubernetes,docker,git**
 
-- 📫 How to reach me **https://www.instagram.com/_gauravxo**
+- 📫 How to reach me **https://instagram.com/_gauravxo**
+
+- ⚡ Fun fact **😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/gaurav-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/_gauravxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gauravxo" height="30" width="40" /></a>
 </p>
 
