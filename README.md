@@ -5,19 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravxo&label=Profile%20views&color=0e75b6&style=flat" alt="gauravxo" /> </p>
 
 
-- 🔭 I’m currently working on **HPE LIC EDMS PROJECT**
+- 🔭 I’m currently working on     **HPE LIC EDMS PROJECT**
 
-- 🌱 I’m currently learning **Jenkins , Python**
+- 🌱 I’m currently learning        **Jenkins , Python**
 
-- 👯 I’m looking to collaborate on **kubernetes**
+- 👯 I’m looking to collaborate on   **kubernetes**
 
-- 🤝 I’m looking for help with **linux,docker,ansible**
+- 🤝 I’m looking for help with    **linux,docker,ansible**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gauravxo](https://github.com/Gauravxo)
+- 👨‍💻 All of my projects are available at   [https://github.com/Gauravxo](https://github.com/Gauravxo)
 
-- 💬 Ask me about **linux,docker,shell-script,kubernetes,docker,git**
+- 💬 Ask me about    **linux,docker,shell-script,kubernetes,docker,git**
 
-- 📫 How to reach me **https://instagram.com/_gauravxo**
+- 📫 How to reach me    **https://instagram.com/_gauravxo**
 
 - ⚡ Fun fact **😊**
 
