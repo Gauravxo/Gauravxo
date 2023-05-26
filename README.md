@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
-<img align="right" alt="coding"width="500" src="https://github.com/Gauravxo/Gauravxo/blob/1e7e822ad0c23fba3339760a3d5821ab0d7dd1fc/Computer%20System%20Coding.gif">
+<img align="right" alt="coding"width="600" src="https://github.com/Gauravxo/Gauravxo/blob/1e7e822ad0c23fba3339760a3d5821ab0d7dd1fc/Computer%20System%20Coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravxo&label=Profile%20views&color=0e75b6&style=flat" alt="gauravxo" /> </p>
 
