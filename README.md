@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
-
 <img align="right" alt="coding"width="350" src="https://github.com/Gauravxo/Gauravxo/blob/main/abc.gif">
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravxo&label=Profile%20views&color=0e75b6&style=flat" alt="gauravxo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravxo" alt="gauravxo" /></a> </p>
-
-
-
-
-
-
-
 
 - 🔭 I’m currently working on **HPE LIC EDMS PROJECT**
 -
