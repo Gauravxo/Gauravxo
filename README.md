@@ -3,12 +3,13 @@
 
 <img align="right" alt="coding"width="350" src="https://github.com/Gauravxo/Gauravxo/blob/main/abc.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravxo&label=Profile%20views&color=0e75b6&style=flat" alt="gauravxo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravxo" alt="gauravxo" /></a> </p>
 
 - 🔭 I’m currently working on **HPE LIC EDMS PROJECT**
--
+
 - 🌱 I’m currently learning **Jenkins , Python**
 
 - 👯 I’m looking to collaborate on **kubernetes**
