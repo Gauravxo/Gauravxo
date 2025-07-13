@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on - **HPE LIC EDMS PROJECT**
 
-- 🌱 I’m currently learning - **Jenkins , Python**
+- 🌱 I’m currently learning - **Jenkins , CI/CD**
 
-- 👯 I’m looking to collaborate on  - **kubernetes**
+- 👯 I’m looking to collaborate on  - **kubernetes** ,**TERRAFORM**
 
-- 🤝 I’m looking for help with - **linux,docker,ansible**
+- 🤝 I’m looking for help with - **KUBERNETES,terraform,aws,docker,ansible**
 
 - 👨‍💻 All of my projects are available at   [https://github.com/Gauravxo](https://github.com/Gauravxo)
 
