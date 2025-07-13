@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravxo&label=Profile%20views&color=0e75b6&style=flat" alt="gauravxo" /> </p>
 
 
-- 🔭 I’m currently working on - **HPE LIC EDMS PROJECT**
+- 🔭 I’m currently working on - **twitter_clone-project**
 
 - 🌱 I’m currently learning - **Jenkins , CI/CD**
 
